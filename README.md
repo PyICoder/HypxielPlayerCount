@@ -9,7 +9,7 @@ If the screen shows no number click refresh.
 ![Preview](https://i.postimg.cc/C1WHSPT4/image.png)
 
 # Installation
-
+Install python 3.x https://www.python.org/
 ```
 pip install pysimplegui
 or

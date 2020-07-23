@@ -17,7 +17,7 @@ def main():
         button, values = window.read(timeout=10)
         if values is None:
             break
-        if (count % 300 == 0) or button == "Refresh" or count == 1:
+        if (count % 1000 == 0) or button == "Refresh" or count == 1:
             data = get(f"https://api.hypixel.net/playercount?key={key}").json()
             if data["success"] is False:
                 cause = data["cause"]

@@ -7,5 +7,3 @@ Refreshes every few seconds to prevent your api key banned, to manuel refresh it
 If the screen shows no number click refresh.
 
 ![Preview](https://i.postimg.cc/C1WHSPT4/image.png)
-
-The EXE file was made by https://github.com/pyinstaller/pyinstaller
